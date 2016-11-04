@@ -1,1 +1,1 @@
-# The web app for Xbox One open source game community.
+The web app for Xbox One open source game community.
